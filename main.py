@@ -1,4 +1,4 @@
-#pip install plexapi required before running/scheduling script
+#!/usr/bin/env python3
 from plexapi.server import PlexServer
 from datetime import datetime, timedelta
 import smtplib
