@@ -8,4 +8,5 @@ A simple automated script that will email a weekly report with thumbnails and su
 2) You'll need to get your specific Plex Libraries API Token by following these instructions: **https://support.plex.tv/articles/204059436-finding-an-authentication-token-x-plex-token/**
 3) You'll need your email providers SMTP info and ideally an App Password for your account
 
-![screenshot](https://github.com/AWKatz/Plex-Weekly-Digest/blob/main/Screenshot.jpg?raw=true)
+
+![Screenshot](https://github.com/AWKatz/Plex-Weekly-Digest/blob/main/Screenshot.png?raw=true)
